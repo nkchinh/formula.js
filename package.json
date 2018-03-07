@@ -37,7 +37,8 @@
     "mocha-lcov-reporter": "0.0.1",
     "mocha-spec-cov": "0.0.3",
     "should": "^11.1.0",
-    "webpack": "^3.5.5"
+    "webpack": "^3.5.5",
+    "webpack-cli": "^2.0.10"
   },
   "config": {
     "blanket": {

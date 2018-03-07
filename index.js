@@ -10,7 +10,8 @@ var categories = [
   require('./lib/information'),
   require('./lib/lookup-reference'),
   require('./lib/statistical'),
-  require('./lib/miscellaneous')
+  require('./lib/miscellaneous'),
+  require('./lib/ktxh')
 ];
 
 for (var c in categories) {
